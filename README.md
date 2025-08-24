@@ -32,7 +32,7 @@ Also interested in photography and video games  <br>
 
 <h3>✦ Contact ✦</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C15B3?style=for-the-badge&logo=logmein&logoColor=white)](www.linkedin.com/in/typhaine-corroller)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C15B3?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/typhaine-corroller)
 [![Email](https://img.shields.io/badge/Email-818BE1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:typhaine.corroller@gmail.com)
 
 </div>
