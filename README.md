@@ -6,9 +6,8 @@ Hello, I'm Typhaine ✨
 <h4>‿︵‿︵‿︵‿︵‿︵‿︵‿︵  /ᐠ.ꞈ.ᐟ\  ︵‿︵‿︵‿︵‿︵‿︵‿︵‿</h4>
 
 <h3>♣ About me ♣</h3>
-Completing a Master’s degree in Computer Science at the University of Caen (France)  <br>
+Master’s degree in Computer Science at the University of Caen (France)  <br>
 Specialization: <i>Artificial Intelligence applied to healthcare</i>  <br>
-Currently finishing my research internship on deep learning for medical imaging  <br>
 
 <br>
 
